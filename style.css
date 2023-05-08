@@ -1,0 +1,10 @@
+.heading {
+    font-weight: bold;
+    color: darkslategray;
+    font-family: serif;
+}
+
+.button {
+    color: darkslategrey;
+    background: beige;
+}
